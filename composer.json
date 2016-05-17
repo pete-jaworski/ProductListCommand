@@ -2,7 +2,6 @@
         "name": "piotrjaworski/product-list-command",
         "description": "Search product in Console",
         "type": "magento2-module",
-        "version": "2.0.0",
         "license": [
             "OSL-3.0",
             "AFL-3.0"
